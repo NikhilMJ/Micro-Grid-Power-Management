@@ -1,0 +1,3 @@
+https://eosweb.larc.nasa.gov/cgi-bin/sse/sse.cgi?skip@larc.nasa.gov+s01#s01
+
+http://rredc.nrel.gov/solar/old_data/nsrdb/1991-2010/hourly/list_by_state.html

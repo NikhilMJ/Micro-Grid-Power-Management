@@ -36,4 +36,5 @@ Kindly refer to the [pdf](Micro%20Grid%20Energy%20Optimization%20using%20MPC.pdf
 ![alt text](Code/Results/Results_08_Dec_2014_02_55_22/State_Trajectory.png?raw=true "Sample State Trajectory Solution")
 
 
-## Keywords: Energy, Model, Predictive, Control, MPC, Powerwall, grid, storage
+#### Keywords:
+Energy, Model, Predictive, Control, MPC, Powerwall, grid, storage

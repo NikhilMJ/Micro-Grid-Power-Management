@@ -32,6 +32,8 @@ While the Tesla powerwall concept was not known at the time of conceiving this p
 
 
 ## Results
-Kindly refer to the attached pdf for a detailed discussion of the results
+Kindly refer to the [pdf](Micro%20Grid%20Energy%20Optimization%20using%20MPC.pdf) above for a detailed discussion on the motivation, problem formulation, MPC setup and results. Also results of several weight balances, constraints and other limits in [results](Code/Results). Below is a sample state trajectory from solving the MPC
+![alt text](Code/Results/Results_08_Dec_2014_02_55_22/State_Trajectory.png?raw=true "Sample State Trajectory Solution")
 
-Keywords: Energy, Model, Predictive, Control, MPC, Powerwall, grid, storage
+
+## Keywords: Energy, Model, Predictive, Control, MPC, Powerwall, grid, storage
